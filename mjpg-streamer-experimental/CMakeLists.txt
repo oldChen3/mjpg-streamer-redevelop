@@ -73,6 +73,7 @@ add_subdirectory(plugins/output_rtsp)
 add_subdirectory(plugins/output_udp)
 add_subdirectory(plugins/output_viewer)
 add_subdirectory(plugins/output_zmqserver)
+add_subdirectory(plugins/output_udpStreaming)
 
 #
 # mjpg_streamer executable
