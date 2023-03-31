@@ -1,0 +1,3 @@
+
+MJPG_STREAMER_PLUGIN_OPTION(output_udpStreaming "UDP streaming output plugin")
+MJPG_STREAMER_PLUGIN_COMPILE(output_udpStreaming output_udpStreaming.c)
